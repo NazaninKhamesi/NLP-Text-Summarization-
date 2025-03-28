@@ -1,0 +1,8 @@
+voila
+jupyter
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch
